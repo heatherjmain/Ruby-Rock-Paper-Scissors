@@ -17,6 +17,13 @@ get "/rock_paper_scissors/:player1/:player2" do
   erb(:result)
 end
 
+# get "/player_1/:selection" do
+#   erb
+# end
+
+
+
+
 # def round(player1, player2)
 #   puts "Please select for player 1"
 #   player1 = gets.chomp.downcase
