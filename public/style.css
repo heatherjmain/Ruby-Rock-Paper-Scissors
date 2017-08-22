@@ -9,7 +9,7 @@ body{
 
   nav{
     display:inline;
-    width:120px;
+    width:100px;
     padding:0,50,0,100;
     text-align:center
   }
@@ -18,21 +18,21 @@ body{
     text-align:center;
     color:black;
     font-size:100px;
-    font-family:arial;
+    font-family:fantasy;
   }
 
   h2{
     text-align:center;
-    color:navy;
+    color:black;
     font-size:50px;
-    font-family:arial;
+    font-family:fantasy;
   }
 
   h3{
     text-align:center;
-    color:navy;
+    color:black;
     font-size:25px;
-    font-family:arial;
+    font-family:fantasy;
 
   }
 
